@@ -1,4 +1,4 @@
-package com.collegeazaar.ecommerce;
+package com.collegbazaar.ecommerce;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
